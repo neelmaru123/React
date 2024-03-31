@@ -1,3 +1,9 @@
 [submodule "S-jenishPatel-Event-Management-Software-Backend"]
 	path = S-jenishPatel-Event-Management-Software-Backend
 	url = https://github.com/neelmaru123/S-jenishPatel-Event-Management-Software-Backend.git
+[submodule "projectWeb"]
+	path = projectWeb
+	url = https://github.com/neelmaru123/projectWeb.git
+[submodule "Event_managment"]
+	path = Event_managment
+	url = https://github.com/neelmaru123/Event_managment.git
